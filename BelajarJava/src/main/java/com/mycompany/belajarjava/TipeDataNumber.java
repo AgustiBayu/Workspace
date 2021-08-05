@@ -43,7 +43,7 @@ public class TipeDataNumber {
         /*
         Varibel dibawah ini digunakan untuk mengkonversi tipe data A ke tipe data
         B atau asc dari kecil ke besar sehingga tidak memerlukan konversi manual
-        */
+        */ 
         
         byte iniByte2 = 100;
         short iniShort2 = iniByte2;
@@ -61,10 +61,6 @@ public class TipeDataNumber {
         long iniLong3 = 2_000_000_000_000;
         int iniInt3 = (int) ini iniLong3;
         
-        
-        
-        
-  
     }
     
 }
