@@ -15,7 +15,7 @@ public class StringTokenizerApp {
         
         //cara membuat objek tokenizer name/field, spasi sebagai delimeter/
         //atau pemisah
-        StringTokenizer tokenizer = new StringTokenizer(name, " ");
+        StringTokenizer tokenizer = new StringTokenizer(name, " ");        
         while(tokenizer.hasMoreTokens()){
             String value = tokenizer.nextToken();
             System.out.println(value);
