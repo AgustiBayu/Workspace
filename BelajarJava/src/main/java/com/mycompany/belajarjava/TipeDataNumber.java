@@ -17,7 +17,7 @@ public class TipeDataNumber {
         byte iniByte = 127;
         short iniShort = 32000;
         int iniInteger = 1_000_000_000;
-        long iniLong = 2_000_000_000_000L;
+        long iniLong = 1_000_000_000_000L;
         
         /*
         Tipe data dibawah ini merupakan sebuah tipedata pecahan
