@@ -1,3 +1,4 @@
+
 package programmer.java.now.app;
 
 import java.util.Scanner;
